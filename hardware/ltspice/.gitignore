@@ -1,4 +1,4 @@
-*.log
-*.raw
-*.fft
-*.imp
+**.log
+**.raw
+**.fft
+**.imp
