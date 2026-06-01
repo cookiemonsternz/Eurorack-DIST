@@ -416,7 +416,7 @@
         "uuid": "80db04cd-294a-4ba1-be3a-1807808f6a1c"
       }
     ],
-    "used_designators": "J10",
+    "used_designators": "J10,#PWR22-29,#PWR32-33,#PWR40-46,#PWR72-95,C1,C3,C10-12,C20,C30-33,C61-69",
     "variants": []
   },
   "sheets": [
