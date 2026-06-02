@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "TL072CDT") (type "KiCad") (uri "${KIPRJMOD}/lib/TL072CDT/footprints.pretty") (options "") (descr ""))
 	(lib (name "PJ301M-12") (type "KiCad") (uri "${KIPRJMOD}/lib/PJ301M-12") (options "") (descr ""))
+	(lib (name "3362P-1-253LF") (type "KiCad") (uri "${KIPRJMOD}/lib/3362P-1-253LF") (options "") (descr ""))
 )

@@ -6137,7 +6137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 174.9552 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6560,7 +6560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6754,22 +6754,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10582")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcb")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6f")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca04")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd7")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7a")
 		)
 		(pin "8"
 			(uuid "99b18675-29e0-4bcb-aa34-1087124cf0a3")
@@ -6978,7 +6978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 96.012 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -7294,7 +7294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 243.5352 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7615,7 +7615,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 197.8152 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7779,7 +7779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 197.8152 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7859,7 +7859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 96.52 68.8848 0)
 			(hide yes)
 			(show_name no)
@@ -8057,7 +8057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 96.52 145.0848 0)
 			(hide yes)
 			(show_name no)
@@ -8139,7 +8139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 174.9552 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8221,7 +8221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 96.012 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -8783,7 +8783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 96.012 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -9104,22 +9104,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10583")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcc")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af70")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca05")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd8")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7b")
 		)
 		(pin "8"
 			(uuid "ab8112a9-f5fb-40f6-b7de-789fc68d417a")
@@ -9405,7 +9405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 174.9552 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9904,7 +9904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10065,7 +10065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 174.9552 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10306,7 +10306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 96.52 33.3248 0)
 			(hide yes)
 			(show_name no)
@@ -10388,7 +10388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 197.8152 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11139,22 +11139,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10584")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcd")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af71")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca06")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd9")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7c")
 		)
 		(pin "8"
 			(uuid "8a02e6cb-90b6-4514-b6d7-b23d444394cb")
@@ -11281,7 +11281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 96.52 105.7148 0)
 			(hide yes)
 			(show_name no)
@@ -11524,7 +11524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11606,7 +11606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -11922,7 +11922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 197.8152 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12292,22 +12292,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10585")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dce")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af72")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca07")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fda")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7d")
 		)
 		(pin "8"
 			(uuid "948205b0-789c-4266-98ad-5671a91e963e")
@@ -12675,7 +12675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 243.5352 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12789,22 +12789,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10583")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10586")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcc")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcf")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af70")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af73")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca05")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca08")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd8")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fdb")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7b")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7e")
 		)
 		(pin "8"
 			(uuid "948205b0-789c-4266-98ad-5671a91e9640")
@@ -12912,7 +12912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "def3dc87-f4b2-407a-981f-26235781a1c6")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 78.74 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12969,13 +12969,13 @@
 			(uuid "f6ed4e43-953a-4e74-8670-9596c94fd7ef")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dcd")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dd0")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af71")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af74")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca06")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca09")
 		)
 		(pin "5"
 			(uuid "8d520f9d-c496-4d6f-a09d-b6694507a2dd")
@@ -12992,7 +12992,7 @@
 		(instances
 			(project "dist"
 				(path "/80db04cd-294a-4ba1-be3a-1807808f6a1c"
-					(reference "U5")
+					(reference "U4")
 					(unit 2)
 				)
 			)
@@ -13144,22 +13144,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10587")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dd1")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af75")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca0a")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fdc")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf7f")
 		)
 		(pin "8"
 			(uuid "3b0ab856-8fcc-4c2b-aa3e-30c0d694c18b")
@@ -13640,22 +13640,22 @@
 			)
 		)
 		(pin "7"
-			(uuid "84165602-01d2-40bc-990a-4a2523f10581")
+			(uuid "84165602-01d2-40bc-990a-4a2523f10588")
 		)
 		(pin "1"
-			(uuid "4964521c-baa0-4140-80dd-b88f62f07dca")
+			(uuid "4964521c-baa0-4140-80dd-b88f62f07dd2")
 		)
 		(pin "3"
-			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af6e")
+			(uuid "96be409c-59f6-4ab2-b7a6-dd1977f8af76")
 		)
 		(pin "2"
-			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca03")
+			(uuid "b4d2a3c1-af21-4ce9-a5bb-8a112a87ca0b")
 		)
 		(pin "5"
-			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fd6")
+			(uuid "dce0f580-3918-4d76-8b60-7d88195c4fdd")
 		)
 		(pin "6"
-			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf79")
+			(uuid "fda6c9d7-5451-4537-99e6-772bf78caf80")
 		)
 		(pin "8"
 			(uuid "877ed70e-cbd5-4d0d-8273-515729209c29")
@@ -13784,7 +13784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 96.012 74.93 90)
 			(hide yes)
 			(show_name no)
