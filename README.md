@@ -27,6 +27,8 @@ I've included the simulations I created on LTSpice; *od.asc*, *dist.asc*, *fuzz.
 
 There is also a livespice simulation of the **OVERDRIVE** section, but I opted not to further utilise this tool due to lack of cross platform support and performance limitations.
 
+I've also included some audio samples generated through LTSpice in **audio-samples/**, note that these are simulations and are thus not perfect, but they should be reasonably accurate.
+
 ## Renders
 ![Render 1](./hardware/cad/render/render-1.png)
 ![Render 2](./hardware/cad/render/render-2.png)
