@@ -18,14 +18,14 @@ Its definitely a big module, but you do get an absolute crapton of features and 
 
 #### How to use?
 The jacks on the left side are the inputs, and on the right the corresponding outputs.
-Each section is routed into the next, and you can toggle between using the input jack or the previous stage as input using the switch. The top left knob controls the overall feedback, as in how much of the output of the **WRMERGLE** stage goes to the input of the **OD** stage. 
+Each section is routed into the next, and you can toggle between using the input jack or the previous stage as input using the switch. The top left knob controls the overall feedback, as in how much of the output of the WRMERGLE stage goes to the input of the OD stage. 
 
 Generally, you should be able to find your way around by following the signal path on the front board.
 
 #### Simulations
-I've included the simulations I created on LTSpice; *od.asc*, *dist.asc*, *fuzz.asc*, and *wrmergle.asc* contain their respective distortion stages, *gate.asc* contains the gate circuit of the **WRMERGLE** section, and *structure.asc* is a pseudo-layout of the whole circuit (not functional).
+I've included the simulations I created on LTSpice; *od.asc*, *dist.asc*, *fuzz.asc*, and *wrmergle.asc* contain their respective distortion stages, *gate.asc* contains the gate circuit of the WRMERGLE section, and *structure.asc* is a pseudo-layout of the whole circuit (not functional).
 
-There is also a livespice simulation of the **OVERDRIVE** section, but I opted not to further utilise this tool due to lack of cross platform support and performance limitations.
+There is also a livespice simulation of the OVERDRIVE section, but I opted not to further utilise this tool due to lack of cross platform support and performance limitations.
 
 I've also included some audio samples generated through LTSpice in **audio-samples/**, note that these are simulations and are thus not perfect, but they should be reasonably accurate.
 
@@ -103,6 +103,7 @@ Heres the links to the CAD source, Onshape:
 [Panel source](https://cad.onshape.com/documents/a7eabe2ba59f8201542a9705/w/4e0a52924acb1733bd85ab30/e/c5b387347f991d36168a8bde?renderMode=0&uiState=6a1f772945aecca6290d22e6)
 
 ## Directory Structure
+- **audio-samples/** - Generated audio demos of each subcircuit, through ltspice
 - **hardware/**
     - **bom/** - BOM Files (CSV and LibreOffice Calc)
     - **cad/** - CAD Files
@@ -122,3 +123,6 @@ Circuit design influenced by:
 [RAT](https://www.electrosmash.com/proco-rat)
 [Big Muff PI](https://www.bigmuffpage.com/Big_Muff_Pi_versions_schematics_part1.html)
 [One Knob Noise Gate](https://effectslayouts.blogspot.com/2016/07/one-knob-noise-gate.html)
+
+
+#### This project was created for [Hack Club](https://hackclub.com/) - [Fallout](https://fallout.hackclub.com/)
