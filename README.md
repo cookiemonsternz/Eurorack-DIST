@@ -36,6 +36,13 @@ I've also included some audio samples generated through LTSpice in **audio-sampl
 ![Board Back](https://cdn.hackclub.com/019e8ae8-93eb-75f7-8e05-99c537bfe12e/paste-1780446957356.png)
 ![Panel art](./hardware/cad/panel-art.png)
 
+## Schematics
+![Main](https://cdn.hackclub.com/019ea152-f277-7398-a26f-f5a2026acee0/paste-1780823026082.png)
+![OD](https://cdn.hackclub.com/019ea153-cac6-743d-acab-5c2f4782d6b1/paste-1780823081806.png)
+![DIST](https://cdn.hackclub.com/019ea154-16f0-7962-b290-98cd71f9e7e0/paste-1780823101949.png)
+![FUZZ](https://cdn.hackclub.com/019ea154-8bf1-7c42-b03e-7c04d5830a5c/paste-1780823131815.png)
+![WRMERGLE](https://cdn.hackclub.com/019ea154-db42-78c3-9cc0-4aa57e4c1ccc/paste-1780823151743.png)
+
 ## Zine Page
 
 ![Zine page](./zine/zine.png)
@@ -123,6 +130,5 @@ Circuit design influenced by:
 [RAT](https://www.electrosmash.com/proco-rat)
 [Big Muff PI](https://www.bigmuffpage.com/Big_Muff_Pi_versions_schematics_part1.html)
 [One Knob Noise Gate](https://effectslayouts.blogspot.com/2016/07/one-knob-noise-gate.html)
-
 
 #### This project was created for [Hack Club](https://hackclub.com/) - [Fallout](https://fallout.hackclub.com/)
